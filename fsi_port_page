@@ -1,0 +1,49 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <title>Future Suit Industries</title>
+  <link href="https://fonts.googleapis.com/css?family=Josefin+Sans:700|Poiret+One|Titillium+Web:600" rel="stylesheet"> 
+</head>
+<body>
+    <div class="container-fluid">
+      <header class="header">
+        
+        <div class="col-sm-6">
+          <h3 id="navLogo" style="text-decoration: none;"><em><u><a href="futuresuitindustries.com/home">FUTURE SUIT INDUSTRIES</a></u></em></h3>
+        </div>
+        <div class="col-sm-6">
+          <button class="btn"><a href="http://futuresuitindustries.com/films">FILMS</a></button>
+              <button class="btn"><a href ="https://futuresuitindustries.com/commercials">COMMERCIALS</a></button>
+              <button class="btn"><a href="https://futuresuitindustries.com.about">ABOUT</a></button>
+              <button class="btn"><a href="https://futuresuitindustries.com/contact">CONTACT</a></button>
+          </div>
+    </header>
+  </div><!-- top container-->
+  <div class="jumbotron">
+    <div id="suitBanner">
+      <img src="https://s-media-cache-ak0.pinimg.com/736x/c5/43/c9/c543c9986115e10d213645ee65e7f9db.jpg" height=600>
+      <img src="https://s-media-cache-ak0.pinimg.com/736x/c5/43/c9/c543c9986115e10d213645ee65e7f9db.jpg" height=600>
+      <img src="https://s-media-cache-ak0.pinimg.com/736x/c5/43/c9/c543c9986115e10d213645ee65e7f9db.jpg" height=600>
+      <img src="https://s-media-cache-ak0.pinimg.com/736x/c5/43/c9/c543c9986115e10d213645ee65e7f9db.jpg" height=600>
+      
+      
+    </div><!-- suitBanner -->
+  </div><!--main body/jumbotron-->
+  
+  <div class="container">
+    <div class="about-left col-sm-5">
+      <img src="https://scriptcat.files.wordpress.com/2011/06/mark-super8-copy.jpg" style="max-height: 100%; max-width: 100%; filter:invert(75%); border-radius: 15px;">
+    </div><!--about-left-->
+    
+    <div class="about-right col-sm-5">
+      <h2><em>WHO WE ARE</em></h2>
+      <p>Future Suit Industries is comprised of a rogue group of filmmakers, writers, artists, and designers. Our mission is to create things that WE want to create, the kind of things that tilt the world on its axis, even if only by one degree. Off-axis content for off-axis eyeballs. Lets get weird.
+        
+    </div><!--about right-->
+  </div><!--about container-->
+  <div class="container films">
+    
+    
+  </div><!--films container-->
+</body>
+</html>
